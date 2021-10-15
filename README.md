@@ -1,48 +1,44 @@
-# TechnoHacktober
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-Make simple to advanced projects under web development, app development or machine learning alogorithms! All codes are welcome here!
+## Available Scripts
 
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full2.aa1e9d9.svg" width="50%">
-    </a>
-</p>
+In the project directory, you can run:
 
-# About 
+### `npm start`
 
-## What is Hacktoberfest 2021?
-- Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. 
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-- During the month of October, everyone is invited to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. It can be done in a variety of [ways](https://hacktoberfest.digitalocean.com/). 
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-- This year the first 50,000 participants can earn a T-Shirt. To get one, you must make four approved pull requests (PRs) that are labelled as `hacktoberfest-accepted` between October 1-31.
+### `npm test`
 
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## What is Open Source?
+### `npm run build`
 
-- Open-Source Software is a type of software whose code is publicly available to use and modify. Open-Source Contribution involves contributing to the development or improvement of open-source software.
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- The open source community provides a great opportunity for aspiring programmers to distinguish themselves; and by contributing to various projects, developers can improve their skills and get inspiration and support from like-minded people.
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-**Let's get started!!**
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Guidelines for this Repository
+### `npm run eject`
 
-- This repository is structured into 3 folders- `WebDev` , `AppDev` and `ML`.  Inside each, there are subfolders. 
-- The path for adding a file containing the program should be for example- ```Machine Learning/01 Data Visualization/Your_project_folder/Yourfile.extension```.
-- If a folder does not already exist, kindly make a new one.
-- If you face any issue or make a mistake in a `pull request`(PR), IAS team will help you out.
-- No repetition of programs will be entertained.
-- Make your PR now!
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-# Rules
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- The pull request must contain commits you made yourself only and must not be plagiarized.
-- If your PR is marked as spam, it will not be considered for Hacktoberfest.
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Do not know how to make a Pull Request?
-***Follow these steps:***
-- Fork the repository to your account using the button on the top of the page.
-- Add the changes on the forked repository.
-- Go to the `Pull Requests` section and click the `New Pull Request` button.
-- Compare the changes you make with the master branch, click `Create Pull Request` button.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
